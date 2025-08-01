@@ -39,13 +39,6 @@ function vowelsAndConsonants(s) {
            console.log(letter);
         }
     });
-    // forEach(letter in s)
-    // {
-    //     if(!isVowel(letter))
-    //     {
-    //        console.log(letter);
-    //     }
-    // }
 }
 
 function isVowel(letter)
