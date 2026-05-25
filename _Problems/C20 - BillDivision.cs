@@ -14,6 +14,7 @@ using System;
 
 // https://www.hackerrank.com/challenges/bon-appetit/problem?isFullScreen=true
 
+
 class Result
 {
 
@@ -34,7 +35,7 @@ class Result
         {
             if(i==k)
                 continue;
-                
+
             sum+=bill[i];
         }
         total = sum/2;
